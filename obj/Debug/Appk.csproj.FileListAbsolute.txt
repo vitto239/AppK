@@ -1,0 +1,15 @@
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\bin\Debug\Appk.exe.config
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\bin\Debug\Appk.exe
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\bin\Debug\Appk.pdb
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\obj\Debug\Appk.csprojAssemblyReference.cache
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\obj\Debug\MainWindow.g.cs
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\obj\Debug\App.g.cs
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\obj\Debug\Appk_MarkupCompile.cache
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\obj\Debug\Appk_MarkupCompile.lref
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\obj\Debug\MainWindow.baml
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\obj\Debug\Appk.g.resources
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\obj\Debug\Appk.Properties.Resources.resources
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\obj\Debug\Appk.csproj.GenerateResource.cache
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\obj\Debug\Appk.csproj.CoreCompileInputs.cache
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\obj\Debug\Appk.exe
+E:\OneDriveGazeta\OneDrive\C#\C#Aplikacje\Appk\Appk\obj\Debug\Appk.pdb
